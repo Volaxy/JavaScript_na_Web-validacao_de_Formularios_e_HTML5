@@ -34,3 +34,9 @@ URL do curso -> [JavaScript na Web - Validação de Formulários e HTML5](https:
 * Definir mensagens customizadas para validações fora do HTML.
 * Utilizar *data attributes* para trabalhar com JavaScript.
 * Deixar a função de validação mais genérica para funcionar com qualquer `input`.
+
+***
+
+## 03 - Mensagens Customizadas &#x1F516;
+* Como mostrar a mensagem de erro diretamente no HTML.
+* Como customizar as mensagens de erro de validação.
