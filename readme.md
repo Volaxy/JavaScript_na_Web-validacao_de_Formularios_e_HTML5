@@ -45,3 +45,8 @@ URL do curso -> [JavaScript na Web - Validação de Formulários e HTML5](https:
 
 ## 04 - Validando CPF &#x1F516;
 * A validar cpf com números repetidos.
+
+***
+
+## 05 - Aplicação de Máscara &#x1F516;
+* Como adicionar máscara monetária para o campo de preço.
