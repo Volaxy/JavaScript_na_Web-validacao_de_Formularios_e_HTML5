@@ -40,3 +40,8 @@ URL do curso -> [JavaScript na Web - Validação de Formulários e HTML5](https:
 ## 03 - Mensagens Customizadas &#x1F516;
 * Como mostrar a mensagem de erro diretamente no HTML.
 * Como customizar as mensagens de erro de validação.
+
+***
+
+## 04 - Validando CPF &#x1F516;
+* A validar cpf com números repetidos.
